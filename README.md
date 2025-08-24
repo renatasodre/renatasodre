@@ -25,10 +25,6 @@ Robot Framework | Jira | Confluence | Accessibility | Bugzilla | TestLink...
 
 ---
 
-### See my CV: <a href="https://gist.github.com/renatasodre/e4934de71619d95fb26096993513e240" target="_blank">Click Here 🖱️</a>
-
----
-
 ## Thanks for your visit! 👋🏻
 
 
