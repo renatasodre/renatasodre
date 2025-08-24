@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey there! I'm Renata 🖖
 
-<!--
-**renatasodre/renatasodre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Welcome to my profile! 💙
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I'm a QA Engineer with 7+ years of experience focused on accessibility and automation.
+Graduate student in Statistics for Data Science at PUC, passionate about data and metrics.
+
+---
+
+🚀 What I'm learning:
+
+[![My Skills](https://skillicons.dev/icons?i=py,js,)](https://skillicons.dev)
+
+⚙️ Tools and Technologies:
+
+[![My Skills](https://skillicons.dev/icons?i=cypress,azure,flutter,git,github,gitlab,gherkin,jenkins,kafka,mysql,postman,pycharm)](https://skillicons.dev)
+
+➕ And more:
+
+Robot Framework | Jira | Confluence | Accessibility | Bugzilla | TestLink...
+
+---
+
+### See my CV: <a href="https://gist.github.com/renatasodre/e4934de71619d95fb26096993513e240" target="_blank">Click Here 🖱️</a>
+
+---
+
+## Thanks for your visit! 👋🏻
+
+
